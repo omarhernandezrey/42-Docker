@@ -43,6 +43,6 @@ Si deseas contribuir a este proyecto, por favor realiza un fork y envía un pull
 
 Licencia
 MIT
-![image](https://github.com/omarhernandezrey/42-Docker/assets/103592862/1c9924df-1d66-4e73-bc57-644282b322c6)
+https://www.notion.so/15-03-2024-7e30ea6bbc13484694e50123a6d5f8ac?pvs=4#c52e644d547a4d85a263950b8cb5c9ae
 
 
