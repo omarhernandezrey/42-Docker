@@ -43,3 +43,6 @@ Si deseas contribuir a este proyecto, por favor realiza un fork y envía un pull
 
 Licencia
 MIT
+https://www.notion.so/15-03-2024-7e30ea6bbc13484694e50123a6d5f8ac?pvs=4#c52e644d547a4d85a263950b8cb5c9ae
+
+
